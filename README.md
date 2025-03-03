@@ -1,3 +1,7 @@
+> [!IMPORTANT]
+>
+> This project is deprecated and is read-only for historical context only.
+
 # Code Climate scalastyle Engine
 
 `codeclimate-scalastyle` is a Code Climate engine that wraps [scalastyle](http://www.scalastyle.org/). You can run it on your command line using the Code Climate CLI, or on our hosted analysis platform.
